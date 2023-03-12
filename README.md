@@ -2,6 +2,9 @@
 | ----------- | ------------- | ------------- |
 |  | cssBayan | gh-pages |
 
+<a href="https://borovskayana.github.io/CSS-Bayan/cssBayan/">My Solution:</a> <a href="https://borovskayana.github.io/CSS-Bayan/cssBayan/">https://borovskayana.github.io/CSS-Bayan/cssBayan/</a>
+
+
 # Task: CSS Bayan
 
 You should create an accordion with HTML and CSS only.
