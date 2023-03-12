@@ -1,5 +1,5 @@
 
-## My Solution (моя работа): <a href="https://borovskayana.github.io/CSS-Bayan/cssBayan/">https://borovskayana.github.io/CSS-Bayan/cssBayan/</a>
+## My Solution (ссылка на мою работу): <a href="https://borovskayana.github.io/CSS-Bayan/cssBayan/">https://borovskayana.github.io/CSS-Bayan/cssBayan/</a>
 
 <br>
 
